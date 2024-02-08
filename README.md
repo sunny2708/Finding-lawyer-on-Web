@@ -1,4 +1,4 @@
-# Wakaalat on web
+# Finding Lawyer on web
 
 Finding the best lawyer in one go is very difficult for every citizen of this country.
 Some can't afford and some don't know where to start and whom to approach.
